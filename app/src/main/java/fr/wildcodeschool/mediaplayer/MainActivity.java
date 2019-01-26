@@ -137,6 +137,7 @@ public class MainActivity extends AppCompatActivity implements SeekBar.OnSeekBar
   protected void onDestroy() {
     super.onDestroy();
     mPlayer.release();
+    mSeekBarHandler.removeCallbacks(mSeekBarThread);
   }
 
 
