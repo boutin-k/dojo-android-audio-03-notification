@@ -39,3 +39,6 @@ Les boutons de la notification doivent interagir avec le média en cours. Chacun
 * [Broadcasts overview](https://developer.android.com/guide/components/broadcasts)
 * [BroadcastReceiver](https://developer.android.com/reference/android/content/BroadcastReceiver)
 * [LocalBroadcastManager](https://developer.android.com/reference/android/support/v4/content/LocalBroadcastManager)
+
+## TD suivant
+* [Service](https://github.com/boutin-k/dojo-android-audio-04-service)
